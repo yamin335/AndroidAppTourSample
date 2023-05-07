@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidAppTourSample</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+
+    <string name="done">Done</string>
+
+    <string name="go_to_previous_activity">Go to previous activity</string>
+
+    <string name="sliderTitle1">Want to register as Newborn\'s Mom!</string>
+    <string name="sliderTitle2">Are you Expecting! Register and Join us</string>
+    <string name="sliderTitle3">Are you a Midwife! Join Us and Be trained</string>
+
+    <string name="sliderDescription1">A simple explanation to the audience regarding the headline</string>
+    <string name="sliderDescription2">Get a million beautiful and delicious recipes around the world</string>
+    <string name="sliderDescription3">A simple explanation to the audience regarding the headline</string>
+</resources>
